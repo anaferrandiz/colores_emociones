@@ -8,7 +8,7 @@ Este proyecto no necesita instalación. Simplemente abre la carpeta del proyecto
 
 ## URL para ver el resultado
 
-Para ver proyecto en directo puedes verlo aquí  https://anaferrandiz.github.io/colores_emociones/
+Para ver proyecto en directo puedes verlo aquí  https://anaferrandiz.github.io/colores-emociones_aleatorias/
 
 ## Licencia
 Este proyecto está bajo la Licencia Pública MIT v3.0. No puede usarse comercialmente.
